@@ -1,0 +1,9 @@
+User: captial of india
+Bot (greetings): Hello! How can I help you?
+---
+User: captial of india country
+Bot (greetings): Hello! How can I help you?
+---
+User: do you like music
+Bot (capability): I can chat with you and answer simple questions.
+---

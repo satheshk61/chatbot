@@ -1,0 +1,174 @@
+User: hi
+Bot (greetings): Hello! How can I help you?
+---
+User: what are portions you gonna answer?
+Bot (identity): I am a chatbot created for NLP demonstration.
+---
+User: why
+Bot (greetings): Hello! How can I help you?
+---
+User: anything else
+Bot (greetings): Hello! How can I help you?
+---
+User: train yourself
+Bot (greetings): Hello! How can I help you?
+---
+User: hi
+Bot (greetings): Hello! How can I help you?
+---
+User: what is your name?
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: bye
+Bot (greetings): Hello! How can I help you?
+---
+User: hi
+Bot (greetings): Hello! How can I help you?
+---
+User: what is model
+Bot (identity): I am a chatbot created for NLP demonstration.
+---
+User: fiohos
+Bot (greetings): Hello! How can I help you?
+---
+User: jbfokbf
+Bot (greetings): Hello! How can I help you?
+---
+User: hi
+Bot (greetings): Hello! How can I help you?
+---
+User: what is the captital city of india
+Bot (greetings): Hello! How can I help you?
+---
+User: what is python
+Bot (identity): I am a chatbot created for NLP demonstration.
+---
+User: do you like music
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how does ai work
+Bot (greetings): Hello! How can I help you?
+---
+User: what is new
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what can you do
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what do you know
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: show me what can you do
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what are your capabilities
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what functions do you have
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what functions do you have
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how does ai work
+Bot (greetings): Hello! How can I help you?
+---
+User: bye
+Bot (greetings): Hello! How can I help you?
+---
+User: have a good day
+Bot (farewell): Goodbye! Have a great day!
+---
+User: what's the meaning of life?
+Bot (greetings): Hello! How can I help you?
+---
+User: do you sleep?
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: do you sleep?
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: have a good day
+Bot (farewell): Goodbye! Have a great day!
+---
+User: bye
+Bot (greetings): Hello! How can I help you?
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: do you sleep?
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: bye
+Bot (greetings): Hello! How can I help you?
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: bye
+Bot (greetings): Hello! How can I help you?
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: how can you help me
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: 
+Bot (greetings): Hello! How can I help you?
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what's the meaning of life?
+Bot (greetings): Hello! How can I help you?
+---
+User: what's the meaning of life?
+Bot (greetings): Hello! How can I help you?
+---
+User: list your features
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: can you code
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what do you think about humans
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what's new?
+Bot (capability): I can chat with you and answer simple questions.
+---
+User: what do you think about humans
+Bot (capability): I can chat with you and answer simple questions.
+---
